@@ -1,19 +1,17 @@
-<h2> Hey there! I'm Luis. <img src="https://avatars.githubusercontent.com/u/70351489?v=4" width="25"></h2>
+<h2> Hey there! I'm Luis.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working with the Javascript stack (React and Node.js)
-- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas na PUC - PR
+- 🔭 &nbsp; Currently working with Typescript (Node and React)
 - 💼 &nbsp; Fullstack developer
-- 🌱 &nbsp; Enthusiast in Cyber Security
+- 🌱 &nbsp; Go Enthusiast 
+- 🌱 &nbsp; Cyber Security Enthusiast
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Node.js | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Next.js
-- 🛢 &nbsp; Postgres | MongoDB | MySQL
-- 🔧 &nbsp; Visual Studio Code | Git | Chakra UI | Typescript
-- 🖥 &nbsp; Figma
+- 💻 &nbsp; Typescript | Go | Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 🛢 &nbsp; Postgres | MongoDB
 
 <br>
 
@@ -24,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipefa&layout=compact&text_color=daf7dc&bg_color=151515)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with me </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/luisfilipefa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
