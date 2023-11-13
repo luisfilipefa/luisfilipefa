@@ -4,13 +4,12 @@
 
 - 🔭 &nbsp; Currently working with Typescript (Node and React)
 - 💼 &nbsp; Fullstack developer
-- 🌱 &nbsp; Go Enthusiast 
 - 🌱 &nbsp; Cyber Security Enthusiast
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Typescript | Go | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 💻 &nbsp; Typescript | Node | Python | HTML | CSS | JavaScript
+- 🌐 &nbsp; React | Sass | Knex
 - 🛢 &nbsp; Postgres | MongoDB
 
 <br>
@@ -20,7 +19,6 @@
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipefa&layout=compact&text_color=daf7dc&bg_color=151515)
-
 
 <h3> 🤝🏻 Connect with me </h3>
 
